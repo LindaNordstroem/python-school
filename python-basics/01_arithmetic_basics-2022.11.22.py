@@ -3,7 +3,6 @@
 import socket
 
 print("This is a vodka-bottle-documentation, sorry, no automation at this time, :-/")
-raise SystemExit
 
 # Arithmetic operations
 print(4 + 2)             # 6
